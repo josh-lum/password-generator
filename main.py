@@ -39,6 +39,3 @@ hash_button.pack()
 # GUI loop
 root.mainloop()
     
-
-
-# its giving an objects location in the memory not the hash of the object
